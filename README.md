@@ -2,7 +2,8 @@
 
 I build at the intersection of AI, blockchain, and full-stack engineering.
 
-- Currently part of Gryd
+- Currently part of Falkram
+- Previously part of Gryd(aka Edgetributors)
 - Previously Assistant System Engineer at TCS
 - Focused on Rust, Solidity, TypeScript, and the Polkadot ecosystem
 - Interested in cross-chain systems, DeFi infrastructure, AI agents, and developer tooling
